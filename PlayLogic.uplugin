@@ -1,24 +1,19 @@
 {
-	"FileVersion" : 3,
-	"Version" : 1,
-	"VersionName" : "1.0",
-	"FriendlyName" : "PlayLogic",
-	"Description" : "PlayLogic provides basic functionalities for narrative-based adventure games.",
-	"Category" : "Toolkits",
-	"CreatedBy" : "Seaknot Studio GK",
-	"CreatedByURL" : "https://seaknot.dev",
-	"DocsURL" : "",
-	"MarketplaceURL" : "",
-	"SupportURL" : "",
-	"EnabledByDefault" : true,
-	"CanContainContent" : true,
-	"IsBetaVersion" : true,
-
-	"Plugins" :
-	[
-		{
-			"Name" : "PlayLogic",
-			"Enabled" : true
-		}
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PlayLogic",
+	"Description": "PlayLogic provides basic functionalities for narrative-based adventure games.",
+	"Category": "Toolkits",
+	"CreatedBy": "Seaknot Studio GK",
+	"CreatedByURL": "https://seaknot.dev",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Plugins": [
 	]
 }
